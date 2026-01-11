@@ -1,0 +1,5 @@
+{
+    ginti x;
+    x = 10;
+    nikalo x;
+}
